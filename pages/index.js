@@ -1,6 +1,11 @@
 import { useState } from 'react';
 
 function Home() {
+  console.log('');
+  console.log('Made with 💜 by:');
+  console.log('Guilherme Bafica 🤘');
+  console.log('');
+
   return (
     <div>
       <h1>Home</h1>
